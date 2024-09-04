@@ -9,16 +9,16 @@ PROXY_TYPE = "socks5" # http/socks5
 # if you want to turn off the bot, select False in the corresponding line
 CONECTED_BOTS = {
     "./1_blum" : True,
-    "./2_cryptorank" : True,
-    "./3_yescoin" : True,
-    "./4_dotcoin" : True,
-    "./5_pocketfi" : True,
-    "./6_muskempire" : True,
-    "./7_hamsterkombat" : True,
-    "./8_okxracer" : True,
+    "./2_cryptorank" : False,
+    "./3_yescoin" : False,
+    "./4_dotcoin" : False,
+    "./5_pocketfi" : False,
+    "./6_muskempire" : False,
+    "./7_hamsterkombat" : False,
+    "./8_okxracer" : False,
     "./9_lostdogs" : True,
     "./10_major" : True,
-    "./11_nomis" : True,
+    "./11_nomis" : False,
     "./12_cats" : True,
 }
 
