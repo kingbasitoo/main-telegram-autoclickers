@@ -1,5 +1,5 @@
-API_ID = 111111111
-API_HASH = 'adf124h2j342x4u232sn'
+API_ID = 28354723
+API_HASH = '41e7ce41a7b75cc2a109133bb4d73156'
 
 ACC_DELAY = [60, 180] # delay between connections to accounts in seconds
 BIG_SLEEP = [14400,21600] # sleep between cycles in bots
